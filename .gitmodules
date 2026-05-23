@@ -1,0 +1,3 @@
+[submodule "homebrew.pretty"]
+	path = homebrew.pretty
+	url = https://github.com/sounddrill31/homebrew.pretty

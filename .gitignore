@@ -1,0 +1,6 @@
+fp-info-cache
+*-backups
+README.txt
+*.lck
+priv-pcb-scripts/
+.history
